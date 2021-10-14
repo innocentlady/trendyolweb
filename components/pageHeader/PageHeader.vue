@@ -114,7 +114,7 @@
                       <div class="link account-user">
                         <div class="icon-container">
                           
-                          <i class="far fa-user" style="color:rgb(0, 255, 0)"></i>
+                          <i class="far fa-user" style="color:rgb(255, 0, 0)"></i>
                           <i class="i-user-orange hover-icon"></i>
                         </div>
                         <p class="link-text">Giriş Yap</p>
