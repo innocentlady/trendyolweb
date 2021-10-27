@@ -1,6 +1,6 @@
 <template>
   <div>
-    
+    <Slider/>
     <div data-tracker-root="">
       <div
         data-fragment-name="Homepage"

@@ -156,8 +156,10 @@ export default {
 .swiper-button-prev {
   background-color: white;
   background-color: rgba(255, 255, 255, 0.5);
-  right: 30px;
-  padding: 5px;
+  right: -3px;
+  padding: 10px;
+  height:5px;
+  
   color: #000 !important;
   fill: black !important;
   stroke: black !important;
