@@ -24,6 +24,18 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    "@/assets/styles/account-navigation-v2.style.css",
+    "@/assets/styles/autoCompleteV3.style.css",
+    "@/assets/styles/banners.css",
+    "@/assets/styles/common-97ec81d433.style.css",
+    "@/assets/styles/footer-tr.style.css",
+    "@/assets/styles/homepage.css",
+    "@/assets/styles/icomoon.css",
+    "@/assets/styles/navigation.css",
+    "@/assets/styles/popular-brand-category.style.css",
+    "@/assets/styles/scroll-up-tr.style.css",
+    "@/assets/styles/sticky-header.min.css",
+    "@/assets/styles/css-style.min.css",
   ],
 
 
@@ -31,6 +43,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    "@/plugins/swipperPlugin.js"
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

@@ -1,11 +1,17 @@
 <script>
+import BasketDetail from '../basket/BasketDetail.vue'
 export default {
+  components: { BasketDetail },
   methods: {
     toggleDropdown(open) {
       console.log(event)
-      if (open === false){const element = event.target.children[1]; element.classList.remove('enable')}
-      else{
-      const element = event.target.parentElement.children[1]; element.classList.add('enable')}
+      if (open === false) {
+        const element = event.target.children[1]
+        element.classList.remove('enable')
+      } else {
+        const element = event.target.parentElement.children[1]
+        element.classList.add('enable')
+      }
     },
   },
 }
@@ -152,19 +158,7 @@ export default {
                         <p class="link-text">Favorilerim</p>
                       </div></a
                     >
-                    <div class="account-nav-item basket-preview">
-                      <a class="link account-basket" href="/sepet/sepet">
-                        <div class="icon-container">
-                          <i
-                            class="fas fa-shopping-cart"
-                            style="color: rgb(255, 0, 102)"
-                          ></i>
-                          <i class="i-bagg-orange hover-icon"></i>
-                        </div>
-                        <p class="link-text">Sepetim</p></a
-                        
-                      >
-                    </div>
+                    <basket-detail />
                   </div>
                 </div>
               </div>
@@ -191,7 +185,6 @@ export default {
                     href="/butik/liste/1/kadin"
                     class="category-header"
                     @mouseover="toggleDropdown(true)"
-                    
                     >Kadın</a
                   >
                   <div class="sub-nav" id="sub-nav-1">
@@ -516,10 +509,11 @@ export default {
                     </div>
                   </div>
                 </li>
-                <li class="tab-link" 
-                    @mouseleave="toggleDropdown(false)">
-                  <a href="/butik/liste/2/erkek" class="category-header"
-                   @mouseover="toggleDropdown(true)"
+                <li class="tab-link" @mouseleave="toggleDropdown(false)">
+                  <a
+                    href="/butik/liste/2/erkek"
+                    class="category-header"
+                    @mouseover="toggleDropdown(true)"
                     >Erkek</a
                   >
                   <div class="sub-nav" id="sub-nav-2">
@@ -849,8 +843,11 @@ export default {
                   </div>
                 </li>
                 <li class="tab-link" @mouseleave="toggleDropdown(false)">
-                  <a href="/butik/liste/3/cocuk" class="category-header"
-                   @mouseover="toggleDropdown(true)" >Çocuk</a
+                  <a
+                    href="/butik/liste/3/cocuk"
+                    class="category-header"
+                    @mouseover="toggleDropdown(true)"
+                    >Çocuk</a
                   >
                   <div class="sub-nav" id="sub-nav-3">
                     <div class="sub-nav-center">
@@ -1243,8 +1240,10 @@ export default {
                   </div>
                 </li>
                 <li class="tab-link" @mouseleave="toggleDropdown(false)">
-                  <a href="/butik/liste/12/ev--yasam" class="category-header"
-                  @mouseover="toggleDropdown(true)"
+                  <a
+                    href="/butik/liste/12/ev--yasam"
+                    class="category-header"
+                    @mouseover="toggleDropdown(true)"
                     >Ev &amp; Yaşam</a
                   >
                   <div class="sub-nav" id="sub-nav-12">
