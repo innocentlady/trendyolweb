@@ -24,7 +24,16 @@ export default {
       {
         src: 'https://kit.fontawesome.com/ce94c72459.js',
         crossorigin: 'anonymous',
-      },
+      },/* 
+      {
+        src: 'https://unpkg.com/swiper/swiper-bundle.min.js',
+      }, */
+    ],
+    link: [/* 
+      {
+        rel: 'stylesheet',
+        href: 'https://unpkg.com/swiper/swiper-bundle.min.css',
+      }, */
     ],
   },
 }

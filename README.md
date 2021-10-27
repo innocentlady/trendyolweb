@@ -1,4 +1,4 @@
-# trendyol
+yarn # trendyol
 
 ## Build Setup
 

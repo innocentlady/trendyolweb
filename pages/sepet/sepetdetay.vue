@@ -1,6 +1,5 @@
 <template>
     <div>
-        burası detay sayfası
-        
+        <BasketDetail/>
     </div>
 </template>

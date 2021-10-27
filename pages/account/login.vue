@@ -1,6 +1,7 @@
 <template>
     <div>
-        burası detay sayfası
+        <Account/>
         
+        <AccountDetail/>
     </div>
 </template>

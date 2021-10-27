@@ -1,6 +1,5 @@
 <template>
     <div>
-        burası detay sayfası
-        
+        burası filter
     </div>
 </template>
