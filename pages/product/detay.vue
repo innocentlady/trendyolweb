@@ -1,6 +1,0 @@
-<template>
-    <div>
-        burası detay sayfası
-        
-    </div>
-</template>

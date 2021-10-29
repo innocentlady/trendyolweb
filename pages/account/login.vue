@@ -2,6 +2,6 @@
     <div>
         <Account/>
         
-        <AccountDetail/>
+         <AccountDetail/>
     </div>
 </template>

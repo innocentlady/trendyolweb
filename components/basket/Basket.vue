@@ -33,6 +33,7 @@
               >
             </div>
           </div>
+
           <div class="pb-merchant-group">
             <div class="pb-merchant">
               <div class="pb-merchant-header">
@@ -105,19 +106,18 @@
                       ></span>
                     </div>
                   </div>
-                  <div class="merchant-label">
-                      <i class="far fa-check-square"></i>
-                      Satıcı:</div>
+                  <div class="merchant-label">Satıcı:</div>
                   <div>
                     <div class="pb-merchant-details">
-                      <a href="/sr?mid=123739" class="pb-merchant-name"
-                        ><span>I Love Shoes</span><i class="fas fa-chevron-right"></i></a>
+                      <a href="/sr?mid=217945" class="pb-merchant-name"
+                        ><span>ELVİNİN TARZI</span><i class="i-arrow-right"></i
+                      ></a>
                     </div>
                   </div>
                 </div>
                 <div class="pb-cargo-info-text">
-                  <i class="fas fa-check"></i>
-                  <p class=" free-cargo-text">Kargo Bedava</p>
+                  <i class="i-checkmark"></i>
+                  <p class="free-cargo-text">Kargo Bedava</p>
                 </div>
               </div>
             </div>
@@ -141,8 +141,7 @@
                       class="
                         ty-bg-beige ty-mg-zero ty-input ty-checkbox ty-bordered
                       "
-                    >
-                    <i class="far fa-check-square"></i></div>
+                    ></div>
                     <svg
                       width="10px"
                       height="8px"
@@ -188,21 +187,17 @@
               <div class="pb-img-container">
                 <div class="pb-img-wrapper">
                   <img
-                    src="https://cdn.dsmcdn.com/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg"
+                    src="https://cdn.dsmcdn.com/ty137/product/media/images/20210625/20/104505121/189980840/1/1_org_zoom.jpg"
                   />
                 </div>
               </div>
               <a
-                href="/i-love-shoes/mosena-mat-deri-bilekten-baglama-detayli-yuksek-topuklu-ayakkabi-beyaz-p-102313090?boutiqueId=61&amp;merchantId=123739"
+                href="/elvinin-tarzi/almira-beyaz-p-117988925?boutiqueId=61&amp;merchantId=217945"
                 class="pb-basket-item-details"
-                ><p
-                  class="pb-item"
-                  title="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"
-                >
-                  <span>I Love Shoes</span>Mosena Mat Deri Bilekten Bağlama
-                  Detaylı Yüksek Topuklu Ayakkabı Beyaz
+                ><p class="pb-item" title="Elvinin Tarzı Almira Beyaz">
+                  <span>Elvinin Tarzı</span>Almira Beyaz
                 </p>
-                <p>Beden: 35</p>
+                <p>Beden: 39</p>
                 <p>
                   <span>Tahmini Kargoya Teslim:</span><span>3 gün içinde</span>
                 </p></a
@@ -211,13 +206,16 @@
                 <div class="pb-counter-container">
                   <span class="pb-quantity"> Son 2 Ürün! </span>
                   <div class="ty-display-flex ty-numeric-counter">
-                    <button class="ty-numeric-counter-button passive"> <svg
+                    <button class="ty-numeric-counter-button passive">
+                      <svg
                         fill="#F27A1A"
                         xmlns="http://www.w3.org/2000/svg"
                         width="9"
                         height="2"
                         viewBox="0 0 9 2"
-                      > <path   d="M3.938 0H.562C.252 0 0 .253 0 .564L.004.63c.032.28.27.497.558.497l3.375-.002 1.126.002h3.375c.31 0 .562-.252.562-.563L8.996.497c-.032-.28-.27-.496-.559-.496H5.063L3.938 0z"
+                      >
+                        <path
+                          d="M3.938 0H.562C.252 0 0 .253 0 .564L.004.63c.032.28.27.497.558.497l3.375-.002 1.126.002h3.375c.31 0 .562-.252.562-.563L8.996.497c-.032-.28-.27-.496-.559-.496H5.063L3.938 0z"
                         ></path>
                       </svg></button
                     ><input
@@ -227,7 +225,7 @@
                       value="1"
                     /><button class="ty-numeric-counter-button">
                       <svg
-                        fill="#ff7f00"
+                        fill="#F27A1A"
                         xmlns="http://www.w3.org/2000/svg"
                         width="9"
                         height="9"
@@ -240,39 +238,32 @@
                     </button>
                   </div>
                 </div>
-                <div class="pb-basket-item-price">
-                  <span>231,98 TL</span>87,72 TL
-                </div>
-                <button><i class="fas fa-trash-alt"></i></button>
+                <div class="pb-basket-item-price">159,90 TL</div>
+                <button><i class="i-trash"></i></button>
               </div>
             </div>
           </div>
-
         </div>
+
         <aside class="sticky" style="left: -270px">
           <div class="pb-summary" style="width: 250px">
             <div class="pb-summary-approve">
               <a
                 class="ty-link-btn-primary"
-                href="/giris?isProceedPayment=true&amp;cb=%2Fsepetim%23%2Fpayment"
-                ><span>Sepeti Onayla</span><i class="fas fa-chevron-right"></i></a>
+                href="/giris?isProceedPayment=true&amp;cb=%2Fsepetim%2Fodeme"
+                ><span>Sepeti Onayla</span><i class="i-arrow-right"></i
+              ></a>
             </div>
             <div class="pb-summary-box">
               <h1>Sipariş Özeti</h1>
               <ul class="pb-summary-box-prices">
                 <li>
                   <span>Ürünün Toplamı</span>
-                  <strong title="159,49 TL">159,49 TL</strong>
+                  <strong title="159,90 TL">159,90 TL</strong>
                 </li>
                 <li>
                   <span>Kargo Toplam</span
                   ><strong title="11,99 TL">11,99 TL</strong>
-                </li>
-                <li class="pb-summary-promotion">
-                  <div title="75 TL Üzeri %45 İndirim">
-                    <span>75 TL Üzeri %45 İndirim</span>
-                  </div>
-                  <strong class="discount" title="71,77 TL">-71,77 TL</strong>
                 </li>
                 <li class="pb-summary-promotion">
                   <div title="50 TL ve Üzeri Kargo Bedava">
@@ -282,20 +273,22 @@
                 </li>
               </ul>
               <hr />
-              <p class="pb-summary-total-price" title="87,72 TL">87,72 TL</p>
+              <p class="pb-summary-total-price" title="159,90 TL">159,90 TL</p>
             </div>
             <div class="pb-coupon">
               <div>
                 <div class="add-coupon-toggle-container">
-                 <i class="fas fa-plus"></i><span class="add-coupon-toggle-title">İNDİRİM KODU GİR</span>
+                  <i class="i-plus-bold"></i
+                  ><span class="add-coupon-toggle-title">İNDİRİM KODU GİR</span>
                 </div>
               </div>
             </div>
             <div class="pb-summary-approve">
               <a
                 class="ty-link-btn-primary"
-                href="/giris?isProceedPayment=true&amp;cb=%2Fsepetim%23%2Fpayment"
-                ><span>Sepeti Onayla</span><i class="fas fa-chevron-right"></i></a>
+                href="/giris?isProceedPayment=true&amp;cb=%2Fsepetim%2Fodeme"
+                ><span>Sepeti Onayla</span><i class="i-arrow-right"></i
+              ></a>
             </div>
           </div>
         </aside>
