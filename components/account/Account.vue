@@ -1,4 +1,4 @@
-<template>
+ <template>
   <div id="container">
     <script
       id="login-register-connector"

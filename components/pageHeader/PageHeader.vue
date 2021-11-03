@@ -126,28 +126,31 @@ export default {
                 />
                 <div id="account-navigation-container">
                   <div class="account-navigation-wrapper">
-                    <a class="account-nav-item user-login-container" href="/account/login">
+                    <a
+                      class="account-nav-item user-login-container"
+                      href="/account/login"
+                    >
                       <div class="link account-user">
                         <div class="icon-container">
-                         <i  class="far fa-user"
-                          style="color:rgb(0,0,0)"></i>
+                          <i class="i-user initial-icon"></i
+                          ><i class="i-user-orange hover-icon"></i>
                         </div>
-                        <p class="link-text">Giriş Yap </p>
+                        <p class="link-text">Giriş Yap</p>
                       </div>
                       <div class="login-dropdown">
-                        <div class="user-notloggedin-container" >
+                        <div class="user-notloggedin-container">
                           <div class="login-button">Giriş Yap</div>
                           <div class="signup-button">Üye Ol</div>
                         </div>
                       </div>
-                      </a>              
+                    </a>
                     <a
                       class="account-nav-item account-favorites"
-                      href="/product/favoriler"
+                      href="/product/favoriler/"
                       ><div class="link">
                         <div class="icon-container">
-                         
-                          <i class="far fa-heart"></i>
+                          <i class="i-heart initial-icon"></i
+                          ><i class="i-heart-orange hover-icon"></i>
                         </div>
                         <p class="link-text">Favorilerim</p>
                       </div></a
