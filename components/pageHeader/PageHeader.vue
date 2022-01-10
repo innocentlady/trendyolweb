@@ -237,10 +237,10 @@ export default {
                         </div>
                         <div class="normal-column">
                           <div class="category-box">
-                            <a
-                              href="/ayakkabi/ayakkabi"
+                            <NuxtLink
+                              to="/shoesproduct"
                               class="sub-category-header"
-                              >Ayakkabı</a
+                              >Ayakkabı</NuxtLink
                             >
                             <ul class="sub-item-list">
                               <li>

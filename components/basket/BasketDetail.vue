@@ -1,11 +1,18 @@
 
 <script>
+import { mapGetters } from 'vuex'
 export default {
   data() {
     return {
       visible: false,
     }
   },
+  computed: {
+    ...mapGetters({
+        basket: 'get_basket_items',
+    })
+  },
+
   methods: {
     openDropDropdown(event) {
       const target = event.target.children[1]
@@ -15,6 +22,15 @@ export default {
       const target = event.target.children[1]
       target.classList.remove('visible')
     },
+    getTotal() {
+      let total = 0;
+      this.basket.map(item => {
+        total += item.count
+        return item;
+      });
+
+      return total;
+    }
   },
 }
 </script>
@@ -25,54 +41,52 @@ export default {
     @mouseover="visible = true"
     @mouseleave="visible = false"
   >
-    <a class="link account-basket" href="/sepet/sepet"
-      ><div class="icon-container">
+    <NuxtLink class="link account-basket" to="/sepet">
+      <div class="icon-container">
         <i class="i-bagg initial-icon"></i
         ><i class="i-bagg-orange hover-icon"></i>
       </div>
       <p class="link-text">Sepetim</p>
-      <div class="basket-item-count-container visible">1</div></a
-    >
+      <div class="basket-item-count-container visible">{{ getTotal() }}</div>
+    </NuxtLink>
     <div class="basket-preview-container" :class="{ visible: visible }">
       <div>
         <div class="slideContainer">
           <div class="slideUpBox passive">
-            <p>Sepetim (1 Ürün)</p>
+            <p>Sepetim ({{ getTotal() }} Ürün)</p>
             <i class="i-arrow-up"></i>
           </div>
 
-          <ul class="basketProductList" data-product-count="1">
-            <li>
-              <a
-                href="/elvinin-tarzi/almira-beyaz-p-117988925?boutiqueId=61&amp;merchantId=217945"
+          <ul class="basketProductList">
+            <li v-for="item in basket" :key="item.product.id">
+              <NuxtLink
+                :to="'/' + item.product.id"
                 ><img
                   alt="basket-preview-product-image"
-                  src="https://cdn.dsmcdn.com/ty137/product/media/images/20210625/20/104505121/189980840/1/1_org_zoom.jpg"
+                  :src="item.product.imgurl"
                 />
                 <div class="product-info">
                   <p class="product">
-                    <span class="brand" title="Elvinin Tarzı"
-                      >Elvinin Tarzı</span
-                    ><span title="Almira Beyaz">Almira Beyaz</span>
+                    <span class="brand" title="Elvinin Tarzı">{{ item.product.title }}</span>
                   </p>
                   <p class="details">
                     <span class="size">Beden: 39</span
-                    ><span class="quantity">Adet: 1</span>
+                    ><span class="quantity">Adet: {{ item.count }}</span>
                   </p>
                   <p class="price-info">
-                    <span class="price">159,90 TL</span
-                    ><span class="remaining-items">Son 2 Ürün</span>
+                    <span class="price">{{ item.product.cost * item.count }} TL</span
+                    ><span class="remaining-items">Son 20 Ürün</span>
                   </p>
-                </div></a
-              >
+                </div>
+              </NuxtLink>
             </li>
           </ul>
 
           <div class="slideDownBox passive"><i class="i-arrow-down"></i></div>
         </div>
         <div class="productPriceBox">
-          <a href="/sepet" class="goBasket">Sepete Git</a
-          ><a href="javascript:void(0)" class="CompleteOrder"
+          <NuxtLink to="/sepet" class="goBasket">Sepete Git</NuxtLink>
+          <a href="javascript:void(0)" class="CompleteOrder"
             >Siparişi Tamamla</a
           >
         </div>

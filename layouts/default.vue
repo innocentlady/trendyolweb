@@ -6,14 +6,17 @@
         <Nuxt />
       </v-container>
     </v-main>
+    <account-detail/>
   </div>
 </template>
 
 
 <script>
+import {mapActions} from "vuex";
+import AccountDetail from '../components/account/AccountDetail.vue';
 import PageHeader from '../components/pageHeader/PageHeader.vue'
 export default {
-  components: { PageHeader },
+  components: { PageHeader, AccountDetail },
 
   data() {
     return {}
@@ -36,5 +39,14 @@ export default {
       }, */
     ],
   },
+  created(){
+    this.fetchproducts();
+  },
+  methods:{
+    ...mapActions({
+      fetchproducts:"fetchproducts"
+    })
+  }
 }
 </script>
+

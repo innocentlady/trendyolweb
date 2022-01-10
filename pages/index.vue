@@ -393,14 +393,7 @@
                                 "
                                 dir="ltr"
                               >
-                                <button
-                                  type="button"
-                                  data-role="none"
-                                  class="slick-arrow slick-prev"
-                                  style="display: block"
-                                >
-                                  Previous
-                                </button>
+                               
                                 <div class="slick-list">
                                   <div
                                     class="slick-track"
@@ -643,14 +636,8 @@
                                     </div>
                                   </div>
                                 </div>
-                                <button
-                                  type="button"
-                                  data-role="none"
-                                  class="slick-arrow slick-next"
-                                  style="display: block"
-                                >
-                                  Next
-                                </button>
+                                
+                               
                               </div>
                               <style type="text/css">
                                 #supermart

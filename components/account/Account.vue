@@ -3524,7 +3524,7 @@ object-assign
             o = n(95)
           e.exports = function (e) {
             return r(function () {
-              return !!o[e]()  || o[e].name !== e
+              return !!o[e]() || o[e].name !== e
             })
           }
         },
@@ -35763,14 +35763,12 @@ object-assign
             return (
               a.useEffect(function () {
                 i &&
-                  f
-                    .getDataLayer()
-                    .push({
-                      event: 'GAEvent',
-                      eventCategory: 'Guest Checkout',
-                      eventAction: 'Continue_Without_Signup_Button',
-                      eventLabel: 'Seen',
-                    })
+                  f.getDataLayer().push({
+                    event: 'GAEvent',
+                    eventCategory: 'Guest Checkout',
+                    eventAction: 'Continue_Without_Signup_Button',
+                    eventLabel: 'Seen',
+                  })
               }, []),
               i
                 ? a.default.createElement(
@@ -35778,14 +35776,12 @@ object-assign
                     {
                       className: 'with-out-auth',
                       onClick: function () {
-                        f
-                          .getDataLayer()
-                          .push({
-                            event: 'GAEvent',
-                            eventCategory: 'Guest Checkout',
-                            eventAction: 'Continue_Without_Signup_Button',
-                            eventLabel: 'Click',
-                          }),
+                        f.getDataLayer().push({
+                          event: 'GAEvent',
+                          eventCategory: 'Guest Checkout',
+                          eventAction: 'Continue_Without_Signup_Button',
+                          eventLabel: 'Click',
+                        }),
                           c.redirect(s.redirectionQueryName)
                       },
                     },
@@ -37397,13 +37393,11 @@ object-assign
                     case 2:
                       return (
                         e.sent(),
-                        w
-                          .getDataLayer()
-                          .push({
-                            eventCategory: 'User Actions',
-                            eventAction: 'Login',
-                            eventLabel: c.current,
-                          }),
+                        w.getDataLayer().push({
+                          eventCategory: 'User Actions',
+                          eventAction: 'Login',
+                          eventLabel: c.current,
+                        }),
                         b.redirect('', { eraseHash: !0 }),
                         [2]
                       )
@@ -37422,13 +37416,11 @@ object-assign
                     case 2:
                       return (
                         e.sent(),
-                        w
-                          .getDataLayer()
-                          .push({
-                            eventCategory: 'User Actions',
-                            eventAction: 'Register',
-                            eventLabel: c.current,
-                          }),
+                        w.getDataLayer().push({
+                          eventCategory: 'User Actions',
+                          eventAction: 'Register',
+                          eventLabel: c.current,
+                        }),
                         b.redirect('', { eraseHash: !0 }),
                         [2]
                       )
@@ -37650,7 +37642,7 @@ object-assign
               class="social-login-icon"
               style="background-color: rgb(75, 0, 8)"
             >
-            <i class="fab fa-facebook"></i>
+              <i class="fab fa-facebook"></i>
             </div>
             <div class="flex flex-column">
               <div>
@@ -37681,3 +37673,12 @@ object-assign
     </script>
   </div>
 </template>
+<script>
+export default {
+  /* created() {
+    document.getElementById('myBtn').addEventListener('click', function () {
+      document.getElementById('demo').innerHTML = 'Hello World'
+    })
+  }, */
+}
+</script>

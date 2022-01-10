@@ -1,5 +1,846 @@
 <template>
-    <div>
-        <div data-fragment-name="ProductDetail" data-fragment-id="0bcd26d6-d3d4-4cec-b3d8-699dfe3a14e9"><link rel="stylesheet" href="https://cdn.dsmcdn.com//web/production/productDetailV3.7ab849ec.css"><main id="product-detail-app"><div class="product-detail-container" data-tracker-root="true"><div class="sticky-header"><div class="sticky-product-desc-wrapper" data-tracker="seen:Seen" data-event-action="Sticky_Header" data-event-category="Product Detail"><div class="sticky-product-info"><img loading="lazy" class="sticky-product-desc-img" src="https://cdn.dsmcdn.com/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg" alt="Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"><div class="sticky-product-desc"><span class="sticky-product-name">I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz</span><div class="pr-bx-w"><div class="pr-bx-dsc"><div class="pr-bx-nm-dsc"><div class="pr-bx-nm with-org-prc"><span class="prc-org">231,98 TL</span><span class="prc-slg prc-slg-w-dsc">159,49 TL</span></div></div><div class="seperator"></div><div class="pr-bx-pr-dsc"><div class="pr-bx-pr-dsc">Sepette %45 İndirim</div><div style="display: flex;"><span class="prc-dsc">87,72 TL</span></div></div></div></div></div></div><div class="sticky-product-buttons"><div class="hl-cn"><div class="hl-ol"></div><div class="hl-cl"><div class="size-variant-wrapper"><div class="size-variant-title-wrapper"><span class="size-variant-title">Beden</span></div><div class="pr-in-sz-pk"><span><span>35</span><span class="stck-msg">(Son 2 ürün)</span></span><span class="caret"></span></div><div class="pr-in-drp"><ul class="pr-in-drp-u"><li class="vrn-item sw"><span>35</span><span class="stck-msg">(Son 2 ürün)</span></li></ul></div></div></div></div><button class="add-to-basket"><div class="add-to-basket-button-text">Sepete Ekle</div><div class="add-to-basket-button-text-success">Sepete Eklendi</div><div class="add-to-bs-ldr"></div></button><div class="favorite-button"><div class="review-tooltip"><div class="tooltip-indicator"><button class="fv"><i class="i-heart"></i></button></div><div class="top-padding"></div><div class="review-tooltip-content"><div>Favorilere Ekle</div></div></div></div></div></div></div><div class="flex-container"><div class="product-container"><div><div class="gallery-container" tabindex="0"><div class="product-image-container"><i class="i-arrow-right right"></i><i class="i-arrow-right left"></i><div class="base-product-image"><div style="position: relative;"><img src="https://cdn.dsmcdn.com/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg" style="width: 100%; height: 100%;"><div class="js-image-zoom__zoomed-area" style="background: white; opacity: 0.4; position: absolute; width: 166.667px; height: 200px; top: 194.2px; left: 107.867px; display: none;"></div><div class="js-image-zoom__zoomed-image" style="background-image: url(&quot;https://cdn.dsmcdn.com/mnresize/1200/1800/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg&quot;); background-repeat: no-repeat; display: none; position: absolute; top: 0px; right: 0px; transform: translateX(100%); width: 500px; height: 100%; background-size: 1200px 1800px; background-position: -323.6px -582.6px;"></div></div></div></div><div class="product-slide-container"><div class="styles-module_sliderBase__swkx1 undefined"><div class="styles-module_slider__o0fqa"><div class="product-slide focused"><img loading="lazy" src="https://cdn.dsmcdn.com/mnresize/128/192/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg" alt="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"></div><div class="product-slide"><img loading="lazy" src="https://cdn.dsmcdn.com/mnresize/128/192/ty171/product/media/images/20210908/15/127665438/169451319/2/2_org_zoom.jpg" alt="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"></div><div class="product-slide"><img loading="lazy" src="https://cdn.dsmcdn.com/mnresize/128/192/ty173/product/media/images/20210908/15/127665438/169451319/3/3_org_zoom.jpg" alt="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"></div><div class="product-slide"><img loading="lazy" src="https://cdn.dsmcdn.com/mnresize/128/192/ty171/product/media/images/20210908/15/127665438/169451319/4/4_org_zoom.jpg" alt="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"></div></div></div></div><div class="gallery-modal hidden"><div class="gallery-modal-content"><i class="i-close"></i><img loading="lazy" src="https://cdn.dsmcdn.com/mnresize/1200/1800/ty171/product/media/images/20210908/15/127665438/169451319/1/1_org_zoom.jpg" alt="I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"><i class="i-arrow-right right"></i><i class="i-arrow-right left"></i></div></div><div class="gallery-stamp-container"><div class="cargo-free">KARGO BEDAVA</div></div></div></div><div class="container-right-content"><div class="pr-in-w"><div><div class="pr-in-cn"><div><h1 class="pr-new-br">I Love Shoes<span> Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz ILS-001999 </span></h1><span class="pr-in-ro"><i class="i-rush-clock"></i><span>Tükeniyor</span></span></div><div class="merchant-box-wrapper"><span class="supplier-text">Satıcı : </span><a href="/magaza/i-love-shoes-m-123739" class="merchant-text">I Love Shoes</a></div><div class="pr-in-ratings"><div class="pr-in-rnr"><div class="review-tooltip"><div class="tooltip-indicator"><div class="rating-line-wrapper"><div class="rt-st-avg"><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 77%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div></div></div></div></div><div class="top-padding"></div><div class="review-tooltip-content"><div><span class="avg-rt-txt-tltp"><span class="tltp-avg-cnt">3.8 </span>Ortalama Puan</span><div class="pr-rnr-rat-s"><div class="pr-rnr-st-ln"><div class="pr-rnr-st-v">5</div><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div></div><div class="pr-rnr-prg"><div class="pr-rnr-prg-y star-5" style="width: 48.0392%;"></div></div><div class="pr-rnr-st-c">49</div></div><div class="pr-rnr-st-ln"><div class="pr-rnr-st-v">4</div><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0%; max-width: 100%;"><div class="star"></div></div></div></div><div class="pr-rnr-prg"><div class="pr-rnr-prg-y star-4" style="width: 17.6471%;"></div></div><div class="pr-rnr-st-c">18</div></div><div class="pr-rnr-st-ln"><div class="pr-rnr-st-v">3</div><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div></div><div class="pr-rnr-prg"><div class="pr-rnr-prg-y star-3" style="width: 13.7255%;"></div></div><div class="pr-rnr-st-c">14</div></div><div class="pr-rnr-st-ln"><div class="pr-rnr-st-v">2</div><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div></div><div class="pr-rnr-prg"><div class="pr-rnr-prg-y star-2" style="width: 4.90196%;"></div></div><div class="pr-rnr-st-c">5</div></div><div class="pr-rnr-st-ln"><div class="pr-rnr-st-v">1</div><div class="ratings readonly"><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 100%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0%; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div><div class="star-w"><div class="empty"><div class="star"></div></div><div class="full" style="width: 0px; max-width: 100%;"><div class="star"></div></div></div></div><div class="pr-rnr-prg"><div class="pr-rnr-prg-y star-1" style="width: 15.6863%;"></div></div><div class="pr-rnr-st-c">16</div></div></div></div></div></div><a href="/i-love-shoes/mosena-mat-deri-bilekten-baglama-detayli-yuksek-topuklu-ayakkabi-beyaz-p-102313090/yorumlar?boutiqueId=61&amp;merchantId=123739&amp;v=35" class="rvw-cnt-tx">102 Değerlendirme</a><div class="seperator"></div><a class="product-questions" href="/i-love-shoes/mosena-mat-deri-bilekten-baglama-detayli-yuksek-topuklu-ayakkabi-beyaz-p-102313090/saticiya-sor?merchantId=123739">67 Soru &amp; Cevap</a></div></div><div class="product-price-container"><div class="pr-bx-w"><div class="pr-bx-dsc"><div class="pr-bx-nm-dsc"><div class="pr-bx-nm with-org-prc"><span class="prc-org">231,98 TL</span><span class="prc-slg prc-slg-w-dsc">159,49 TL</span></div></div><div class="seperator"></div><div class="pr-bx-pr-dsc"><div class="pr-bx-pr-dsc">Sepette %45 İndirim</div><div style="display:flex"><span class="prc-dsc">87,72 TL</span></div></div></div></div></div></div></div></div><div class="slicing-attributes"></div><div class="size-variant-wrapper"><div class="size-variant-title-wrapper"><span class="size-variant-title">Beden: <span class="size-variant-attr-value">35</span> &nbsp;<span class="size-variant-stock-warning">(Son 2 ürün!)</span></span></div><div class="variants"><div class="selected sp-itm" title="Beden seçmek için tıklayınız">35</div><div class="so sp-itm" title="Beden seçmek için tıklayınız">36<span class="i-alarm"></span></div><div class="so sp-itm" title="Beden seçmek için tıklayınız">37<span class="i-alarm"></span></div><div class="so sp-itm" title="Beden seçmek için tıklayınız">38<span class="i-alarm"></span></div><div class="so sp-itm" title="Beden seçmek için tıklayınız">39<span class="i-alarm"></span></div><div class="so sp-itm" title="Beden seçmek için tıklayınız">40<span class="i-alarm"></span></div></div></div><div class="vas-product"></div><div class="product-button-container"><button class="add-to-basket"><div class="add-to-basket-button-text">Sepete Ekle</div><div class="add-to-basket-button-text-success">Sepete Eklendi</div><div class="add-to-bs-ldr"></div></button><div class="favorite-button"><div class="review-tooltip"><div class="tooltip-indicator"><button class="fv"><i class="far fa-heart"></i></button></div><div class="top-padding"></div><div class="review-tooltip-content"><div>Favorilere Ekle</div></div></div></div></div><aside class="delivery-favorite-info"><div class="delivery-and-favorite-wrapper"><div class="pr-dd"><div class="pr-dd-rs-w"><span class="pr-dd-nr-text">Tahmini Kargoya Teslim: </span><span class="dd-txt-vl">3 gün içinde</span></div></div><div class="fv-dt"><i class="i-heart"></i>17185 favori</div></div></aside><div class="featured-information"><div class="featured-information-header">Öne Çıkan Bilgiler</div><div class="content-descriptions"><ul id="content-descriptions-list"><li class="return-info">15 gün içinde ücretsiz iade. Detaylı bilgi için <a class="product-description-link" href="javascript:void(0)">tıklayın</a>.</li><li><div class="productDetailSupplierPopup"><div class="popupBuffer"></div><div class="popupContent"><div class="popup-top"><div class="popup-logo"><i class="icon icon-trendyol-marketplace"></i></div><div class="popup-info"><div class="ttl">TRENDYOL PAZARYERİ</div><div class="description">Tüm satıcılarımız Trendyol hizmet standartlarını garanti eder.</div><div class="attributes"><div><i class="pdp-icon-reloaded"></i>Ücretsiz İade</div><div><i class="pdp-icon-cargo"></i> Hızlı Teslimat</div><div><i class="pdp-icon-phone"></i><span class="customer-support-text">Trendyol <br>Müşteri Desteği</span></div></div></div></div><div class="supplier-info"><span>Satıcı:<b> I Love Shoes </b></span><span>Satıcı Ünvanı:<b> MBC GLOBAL E TİCARET AYAKKABI TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ </b></span><span>İletişim:<b> Satıcının Trendyol tarafından teyit edilmiş e-posta ve iletişim adresi kayıt altındadır. </b></span><span><span id="cityInfo">Şehir:<b>  İzmir  </b></span></span><span><span>Vergi Kimlik Numarası:<b> 6131223309 </b></span></span></div></div></div>Bu ürün <span class="product-description-market-place">I Love Shoes</span> tarafından gönderilecektir.</li><li>Topuk Türü : Kalın Topuk Topuk Yüksekliği :10 CM Taban :0,5 CM Materyal : Mat Deri Kalıp :Standart KalıpMosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı</li><li>Bu üründen en fazla 50 adet sipariş verilebilir. 50 adetin üzerindeki siparişleri Trendyol iptal etme hakkını saklı tutar.</li><li>Kampanya fiyatından satılmak üzere 5 adetten az stok bulunmaktadır.</li><li>İncelemiş olduğunuz ürünün satış fiyatını satıcı belirlemektedir.</li></ul><div class="all-features"><div class="opacity-layout"></div><a rel="nofollow" class="button-all-features">ÜRÜNÜN TÜM ÖZELLİKLERİ</a></div></div></div></div></div></div><aside class="pr-rcs-w productDetail-Similar"><div class="pr-rcs-tl title"></div><div class="pr-rcs-pds"><div tabindex="0" class="styles-module_carousel-base__3keqD crs-pr-crl"><div class="styles-module_item-provider__YgMwz"><div class="styles-module_item-tracker__3bypy" style="transform: translateX(-1121.5px); transition: transform 0s ease 0s; width: 2915.89px;"><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/salto-ayakkabi/beyaz-eski-biyeli-bilekten-bagli-topuklu-ayakkabi-p-118962422" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="118962422" data-order="4"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty133/product/media/images/20210622/12/102964892/191513158/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/buyuk-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">salto ayakkabı</span><span class="pr-rc-nm" title="Beyaz Eski Biyeli Bilekten Bağlı Topuklu Ayakkabı">Beyaz Eski Biyeli Bilekten Bağlı Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">189,90 TL</span><span class="prc-slg prc-slg-w-dsc">119,90 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %20 İndirim"><span class="pr-rc-pr-tx">Sepette %20 İndirim</span><span class="prc-dsc">95,92 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/trendyol-shoes/kadin-beyaz-kut-burunlu-klasik-topuklu-ayakkabi-takss21to0040-p-101180203" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="101180203" data-order="5"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty144/product/media/images/20210714/1/110214473/167834818/4/4_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/cilgin-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">TRENDYOL SHOES</span><span class="pr-rc-nm" title="Kadın Beyaz Küt Burunlu Klasik Topuklu Ayakkabı TAKSS21TO0040">Kadın Beyaz Küt Burunlu Klasik Topuklu Ayakkabı TAKSS21TO0040</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">159,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %50 İndirim"><span class="pr-rc-pr-tx">Sepette %50 İndirim</span><span class="prc-dsc">79,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/trendyol-shoes/beyaz-baglamali-kadin-klasik-topuklu-ayakkabi-takss21to0078-p-98573929" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="98573929" data-order="6"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty110/product/media/images/20210429/9/83818687/164051235/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/cilgin-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">TRENDYOL SHOES</span><span class="pr-rc-nm" title="Beyaz Bağlamalı Kadın Klasik Topuklu Ayakkabı TAKSS21TO0078">Beyaz Bağlamalı Kadın Klasik Topuklu Ayakkabı TAKSS21TO0078</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">159,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %50 İndirim"><span class="pr-rc-pr-tx">Sepette %50 İndirim</span><span class="prc-dsc">80 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/bambi/beyaz-kadin-klasik-topuklu-ayakkabi-k05503530309-p-42472027" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="42472027" data-order="7"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty17/product/media/images/20210325/7/75136580/75420312/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Bambi</span><span class="pr-rc-nm" title="Beyaz Kadın Klasik Topuklu Ayakkabı K05503530309">Beyaz Kadın Klasik Topuklu Ayakkabı K05503530309</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">142,84 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %30 İndirim"><span class="pr-rc-pr-tx">Sepette %30 İndirim</span><span class="prc-dsc">99,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/bambi/beyaz-kadin-klasik-topuklu-ayakkabi-k05575000109-p-38898116" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="38898116" data-order="8"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty145/product/media/images/20210713/14/110086630/68819968/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Bambi</span><span class="pr-rc-nm" title="Beyaz Kadın Klasik Topuklu Ayakkabı K05575000109">Beyaz Kadın Klasik Topuklu Ayakkabı K05575000109</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">142,84 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %30 İndirim"><span class="pr-rc-pr-tx">Sepette %30 İndirim</span><span class="prc-dsc">99,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/salto-ayakkabi/yeni-ipli-siyah-suet-topuklu-ayakkabi-p-95246590" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="95246590" data-order="1"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty72/product/media/images/20210330/15/76326631/158774033/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ll" src="https://cdn.dsmcdn.com//seller-ads/editor/resources/seller-selection-stamp-v13.png" style="width: 66.5px;"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/buyuk-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">salto ayakkabı</span><span class="pr-rc-nm" title="Yeni Ipli Siyah Süet Topuklu Ayakkabı">Yeni Ipli Siyah Süet Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">199,00 TL</span><span class="prc-slg prc-slg-w-dsc">139,90 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %20 İndirim"><span class="pr-rc-pr-tx">Sepette %20 İndirim</span><span class="prc-dsc">111,92 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/derithy/kadin-beyaz-rapina-topuklu-ayakkabi-byc1702-p-89494230" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="89494230" data-order="2"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty109/product/media/images/20210428/18/83517609/149640600/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">derithy</span><span class="pr-rc-nm" title="Kadın Beyaz Rapina Topuklu Ayakkabı byc1702">Kadın Beyaz Rapina Topuklu Ayakkabı byc1702</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">228,55 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %35 İndirim"><span class="pr-rc-pr-tx">Sepette %35 İndirim</span><span class="prc-dsc">148,56 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/lal-shoes-bags/kadin-beyaz-biyeli-klasik-topuklu-ayakkabi-p-69544910" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="69544910" data-order="3"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty141/product/media/images/20210706/20/107706384/120551011/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ll" src="https://cdn.dsmcdn.com//seller-ads/editor/resources/seller-selection-stamp-v13.png" style="width: 66.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Lal Shoes &amp; Bags</span><span class="pr-rc-nm" title="Kadın Beyaz Biyeli Klasik Topuklu Ayakkabı">Kadın Beyaz Biyeli Klasik Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">169,99 TL</span><span class="prc-slg prc-slg-w-dsc">146,50 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %25 İndirim"><span class="pr-rc-pr-tx">Sepette %25 İndirim</span><span class="prc-dsc">109,87 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/salto-ayakkabi/beyaz-eski-biyeli-bilekten-bagli-topuklu-ayakkabi-p-118962422" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="118962422" data-order="4"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty133/product/media/images/20210622/12/102964892/191513158/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/buyuk-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">salto ayakkabı</span><span class="pr-rc-nm" title="Beyaz Eski Biyeli Bilekten Bağlı Topuklu Ayakkabı">Beyaz Eski Biyeli Bilekten Bağlı Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">189,90 TL</span><span class="prc-slg prc-slg-w-dsc">119,90 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %20 İndirim"><span class="pr-rc-pr-tx">Sepette %20 İndirim</span><span class="prc-dsc">95,92 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/trendyol-shoes/kadin-beyaz-kut-burunlu-klasik-topuklu-ayakkabi-takss21to0040-p-101180203" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="101180203" data-order="5"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty144/product/media/images/20210714/1/110214473/167834818/4/4_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/cilgin-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">TRENDYOL SHOES</span><span class="pr-rc-nm" title="Kadın Beyaz Küt Burunlu Klasik Topuklu Ayakkabı TAKSS21TO0040">Kadın Beyaz Küt Burunlu Klasik Topuklu Ayakkabı TAKSS21TO0040</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">159,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %50 İndirim"><span class="pr-rc-pr-tx">Sepette %50 İndirim</span><span class="prc-dsc">79,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/trendyol-shoes/beyaz-baglamali-kadin-klasik-topuklu-ayakkabi-takss21to0078-p-98573929" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="98573929" data-order="6"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty110/product/media/images/20210429/9/83818687/164051235/1/1_org_thumb.jpg" alt=""><div class="custom-stamp-box-wrapper"><img alt="" loading="lazy" class="featured-product-stamp ul" src="https://cdn.dsmcdn.com/stamp/cilgin-firsat.png" style="width: 47.5px;"></div></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">TRENDYOL SHOES</span><span class="pr-rc-nm" title="Beyaz Bağlamalı Kadın Klasik Topuklu Ayakkabı TAKSS21TO0078">Beyaz Bağlamalı Kadın Klasik Topuklu Ayakkabı TAKSS21TO0078</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">159,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %50 İndirim"><span class="pr-rc-pr-tx">Sepette %50 İndirim</span><span class="prc-dsc">80 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/bambi/beyaz-kadin-klasik-topuklu-ayakkabi-k05503530309-p-42472027" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="42472027" data-order="7"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty17/product/media/images/20210325/7/75136580/75420312/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Bambi</span><span class="pr-rc-nm" title="Beyaz Kadın Klasik Topuklu Ayakkabı K05503530309">Beyaz Kadın Klasik Topuklu Ayakkabı K05503530309</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">142,84 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %30 İndirim"><span class="pr-rc-pr-tx">Sepette %30 İndirim</span><span class="prc-dsc">99,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/bambi/beyaz-kadin-klasik-topuklu-ayakkabi-k05575000109-p-38898116" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="38898116" data-order="8"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty145/product/media/images/20210713/14/110086630/68819968/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Bambi</span><span class="pr-rc-nm" title="Beyaz Kadın Klasik Topuklu Ayakkabı K05575000109">Beyaz Kadın Klasik Topuklu Ayakkabı K05575000109</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">142,84 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %30 İndirim"><span class="pr-rc-pr-tx">Sepette %30 İndirim</span><span class="prc-dsc">99,99 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div></div></div></div></div></aside><aside class="pr-rcs-w productDetail-Cross"><div class="pr-rcs-tl title"></div><div class="pr-rcs-pds"><div tabindex="0" class="styles-module_carousel-base__3keqD crs-pr-crl"><div class="styles-module_item-provider__YgMwz"><div class="styles-module_item-tracker__3bypy" style="transform: translateX(-1121.5px); transition: transform 0s ease 0s; width: 2915.89px;"><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/derithy/kadin-siyah-topuklu-ayakkabi-byc1702-p-89489738" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="89489738" data-order="4"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty88/product/media/images/20210316/17/72254480/149634058/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">derithy</span><span class="pr-rc-nm" title="Kadın Siyah Topuklu Ayakkabı  byc1702">Kadın Siyah Topuklu Ayakkabı  byc1702</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">228,46 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %35 İndirim"><span class="pr-rc-pr-tx">Sepette %35 İndirim</span><span class="prc-dsc">148,50 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/angel-mavi-p-134041922" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="134041922" data-order="5"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty160/product/media/images/20210820/9/120416464/230597973/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Angel  Mavi">Angel  Mavi</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg">139,90 TL</span></div></div><div class="pr-rc-prs"></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/kadin-yesil-dugum-detayli-topuklu-ayakkabi-p-101356618" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="101356618" data-order="6"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty128/product/media/images/20210607/15/96775320/168116146/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Kadın Yeşil Düğüm Detaylı Topuklu Ayakkabı">Kadın Yeşil Düğüm Detaylı Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg">159,90 TL</span></div></div><div class="pr-rc-prs"></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/i-love-shoes/forvela-tektsil-cirt-cirt-detayli-ekstra-hafif-sandalet-lila-p-134499811" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="134499811" data-order="7"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty162/product/media/images/20210821/15/120909923/231292348/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">I Love Shoes</span><span class="pr-rc-nm" title="Forvela Tektsil Cırt Cırt Detaylı Ekstra Hafif Sandalet Lila">Forvela Tektsil Cırt Cırt Detaylı Ekstra Hafif Sandalet Lila</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">127,98 TL</span><span class="prc-slg prc-slg-w-dsc">87,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %45 İndirim"><span class="pr-rc-pr-tx">Sepette %45 İndirim</span><span class="prc-dsc">48,39 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/i-love-shoes/otreno-hasir-bilekten-baglama-detayli-espadril-gri-p-97315247" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="97315247" data-order="8"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty186/product/media/images/20211004/18/139990996/162008316/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">I Love Shoes</span><span class="pr-rc-nm" title="Otreno Hasır Bilekten Bağlama Detaylı Espadril Gri">Otreno Hasır Bilekten Bağlama Detaylı Espadril Gri</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">223,98 TL</span><span class="prc-slg prc-slg-w-dsc">153,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %45 İndirim"><span class="pr-rc-pr-tx">Sepette %45 İndirim</span><span class="prc-dsc">84,69 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/almira-beyaz-p-117988925" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="117988925" data-order="1"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty137/product/media/images/20210625/20/104505121/189980840/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Almira Beyaz">Almira Beyaz</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg">159,90 TL</span></div></div><div class="pr-rc-prs"></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/almira-bej-p-117989000" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="117989000" data-order="2"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty161/product/media/images/20210815/19/118839578/190002245/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Almira Bej">Almira Bej</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">159,90 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %20 İndirim"><span class="pr-rc-pr-tx">Sepette %20 İndirim</span><span class="prc-dsc">127,92 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/kadin-pembe-ipli-ayakkabi-p-101384838" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="101384838" data-order="3"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty109/product/media/images/20210428/10/83465775/168152859/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Kadın Pembe İpli Ayakkabı">Kadın Pembe İpli Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">189,90 TL</span><span class="prc-slg prc-slg-w-dsc">159,90 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %20 İndirim"><span class="pr-rc-pr-tx">Sepette %20 İndirim</span><span class="prc-dsc">127,92 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/derithy/kadin-siyah-topuklu-ayakkabi-byc1702-p-89489738" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="89489738" data-order="4"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty88/product/media/images/20210316/17/72254480/149634058/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">derithy</span><span class="pr-rc-nm" title="Kadın Siyah Topuklu Ayakkabı  byc1702">Kadın Siyah Topuklu Ayakkabı  byc1702</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg prc-slg-w-dsc">228,46 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %35 İndirim"><span class="pr-rc-pr-tx">Sepette %35 İndirim</span><span class="prc-dsc">148,50 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/angel-mavi-p-134041922" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="134041922" data-order="5"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty160/product/media/images/20210820/9/120416464/230597973/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Angel  Mavi">Angel  Mavi</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg">139,90 TL</span></div></div><div class="pr-rc-prs"></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/elvinin-tarzi/kadin-yesil-dugum-detayli-topuklu-ayakkabi-p-101356618" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="101356618" data-order="6"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty128/product/media/images/20210607/15/96775320/168116146/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">Elvinin Tarzı</span><span class="pr-rc-nm" title="Kadın Yeşil Düğüm Detaylı Topuklu Ayakkabı">Kadın Yeşil Düğüm Detaylı Topuklu Ayakkabı</span></div><div class="pr-bx-w"><div class="pr-bx-nm"><span class="prc-slg">159,90 TL</span></div></div><div class="pr-rc-prs"></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/i-love-shoes/forvela-tektsil-cirt-cirt-detayli-ekstra-hafif-sandalet-lila-p-134499811" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="134499811" data-order="7"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty162/product/media/images/20210821/15/120909923/231292348/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">I Love Shoes</span><span class="pr-rc-nm" title="Forvela Tektsil Cırt Cırt Detaylı Ekstra Hafif Sandalet Lila">Forvela Tektsil Cırt Cırt Detaylı Ekstra Hafif Sandalet Lila</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">127,98 TL</span><span class="prc-slg prc-slg-w-dsc">87,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %45 İndirim"><span class="pr-rc-pr-tx">Sepette %45 İndirim</span><span class="prc-dsc">48,39 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div><div class="styles-module_item-container__a8zaY" style="width: 224.299px; pointer-events: all;"><div class="pr-rc-w with-fav"><a href="/i-love-shoes/otreno-hasir-bilekten-baglama-detayli-espadril-gri-p-97315247" data-tracker="seen:recommendationImpression" data-seed-id="102313090" data-content-id="97315247" data-order="8"><div class="pr-rc-img gnr-cnt-br ftrd-prd-crd"><img class="pd-img" loading="lazy" src="https://cdn.dsmcdn.com/ty186/product/media/images/20211004/18/139990996/162008316/1/1_org_thumb.jpg" alt=""></div><div class="pr-rc-dc"><div class="pr-nm-ct"><span class="pr-rc-br">I Love Shoes</span><span class="pr-rc-nm" title="Otreno Hasır Bilekten Bağlama Detaylı Espadril Gri">Otreno Hasır Bilekten Bağlama Detaylı Espadril Gri</span></div><div class="pr-bx-w"><div class="pr-bx-nm with-org-prc"><span class="prc-org">223,98 TL</span><span class="prc-slg prc-slg-w-dsc">153,99 TL</span></div></div><div class="pr-rc-prs"><div class="pr-rc-prm basket" title="Sepette %45 İndirim"><span class="pr-rc-pr-tx">Sepette %45 İndirim</span><span class="prc-dsc">84,69 TL</span></div></div></div></a><div class="fc-btn-fav"><button class="featured-fv"><i class="i-heart"></i></button></div></div></div></div></div></div></div></aside></div></main></div>
+  <div v-if="product">
+    <div
+      data-fragment-name="ProductDetail"
+    >
+      <link
+        rel="stylesheet"
+        href="https://cdn.dsmcdn.com//web/production/productDetailV3.7ab849ec.css"
+      />
+      <main id="product-detail-app">
+        <div class="product-detail-container" data-tracker-root="true">
+          <div class="sticky-header">
+            <div
+              class="sticky-product-desc-wrapper"
+              data-tracker="seen:Seen"
+              data-event-action="Sticky_Header"
+              data-event-category="Product Detail"
+            >
+              <div class="sticky-product-info">
+                <img
+                  loading="lazy"
+                  class="sticky-product-desc-img"
+                  :src="product.imgurl"
+                  alt="Mosena Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu Ayakkabı Beyaz"
+                />
+                <div class="sticky-product-desc">
+                  <span class="sticky-product-name"
+                    >{I Love Shoes Mosena Mat Deri Bilekten Bağlama Detaylı
+                    Yüksek Topuklu Ayakkabı Beyaz}</span
+                  >
+                  <div class="pr-bx-w">
+                    <div class="pr-bx-dsc">
+                      <div class="pr-bx-nm-dsc">
+                        <div class="pr-bx-nm with-org-prc">
+                          <span class="prc-org">231,98 TL</span
+                          ><span class="prc-slg prc-slg-w-dsc">159,49 TL</span>
+                        </div>
+                      </div>
+                      <div class="seperator"></div>
+                      <div class="pr-bx-pr-dsc">
+                        <div class="pr-bx-pr-dsc">Sepette %45 İndirim</div>
+                        <div style="display: flex">
+                          <span class="prc-dsc">87,72 TL</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="sticky-product-buttons">
+                <div class="hl-cn">
+                  <div class="hl-ol"></div>
+                  <div class="hl-cl">
+                    <div class="size-variant-wrapper">
+                      <div class="size-variant-title-wrapper">
+                        <span class="size-variant-title">Beden</span>
+                      </div>
+                      <div class="pr-in-sz-pk">
+                        <span
+                          ><span>35</span
+                          ><span class="stck-msg">(Son 2 ürün)</span></span
+                        ><span class="caret"></span>
+                      </div>
+                      <div class="pr-in-drp">
+                        <ul class="pr-in-drp-u">
+                          <li class="vrn-item sw">
+                            <span>35</span
+                            ><span class="stck-msg">(Son 2 ürün)</span>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <button class="add-to-basket" @click.prevent="addToBasket">
+                  <div class="add-to-basket-button-text">Sepete Ekle</div>
+                  <div class="add-to-basket-button-text-success">
+                    Sepete Eklendi
+                  </div>
+                  <div class="add-to-bs-ldr"></div>
+                </button>
+                <div class="favorite-button">
+                  <div class="review-tooltip">
+                    <div class="tooltip-indicator">
+                      <button class="fv"><i class="i-heart"></i></button>
+                    </div>
+                    <div class="top-padding"></div>
+                    <div class="review-tooltip-content">
+                      <div>Favorilere Ekle</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="flex-container">
+            <div class="product-container">
+              <div>
+                <div class="gallery-container" tabindex="0">
+                  <div class="product-image-container">
+                    <i class="i-arrow-right right"></i
+                    ><i class="i-arrow-right left"></i>
+                    <div class="base-product-image">
+                      <div style="position: relative">
+                        <img
+                          :srcset="product.imgurl"
+                          style="width: 100%; height: 100%"
+                        />
+                        <div
+                          class="js-image-zoom__zoomed-area"
+                          style="
+                            background: white;
+                            opacity: 0.4;
+                            position: absolute;
+                            width: 166.667px;
+                            height: 200px;
+                            top: 194.2px;
+                            left: 107.867px;
+                            display: none;
+                          "
+                        ></div>
+                      
+                      </div>
+                    </div>
+                  </div>
+                  <div class="product-slide-container">
+                    <div class="styles-module_sliderBase__swkx1 undefined">
+                     
+                    </div>
+                  </div>
+                  <div class="gallery-modal hidden">
+                   
+                  </div>
+                  <div class="gallery-stamp-container">
+                    <div class="cargo-free">KARGO BEDAVA</div>
+                  </div>
+                </div>
+              </div>
+              <div class="container-right-content">
+                <div class="pr-in-w">
+                  <div>
+                    <div class="pr-in-cn">
+                      <div>
+                        <h1 class="pr-new-br">
+                         {{product.name}}
+                        </h1>
+                        <span class="pr-in-ro"
+                          ><i class="i-rush-clock"></i
+                          ><span>Tükeniyor</span></span
+                        >
+                      </div>
+                      <div class="merchant-box-wrapper">
+                        <span class="supplier-text">Satıcı : </span
+                        ><a
+                          href="/magaza/i-love-shoes-m-123739"
+                          class="merchant-text"
+                          >{{product.title}}</a
+                        >
+
+                      </div>
+                      <div class="pr-in-ratings">
+                        <div class="pr-in-rnr">
+                          <div class="review-tooltip">
+                            <div class="tooltip-indicator">
+                              <div class="rating-line-wrapper">
+                                <div class="rt-st-avg">
+                                  <div class="ratings readonly">
+                                    <div class="star-w">
+                                      <div class="empty">
+                                        <div class="star"></div>
+                                      </div>
+                                      <div
+                                        class="full"
+                                        style="width: 100%; max-width: 100%"
+                                      >
+                                        <div class="star"></div>
+                                      </div>
+                                    </div>
+                                    <div class="star-w">
+                                      <div class="empty">
+                                        <div class="star"></div>
+                                      </div>
+                                      <div
+                                        class="full"
+                                        style="width: 100%; max-width: 100%"
+                                      >
+                                        <div class="star"></div>
+                                      </div>
+                                    </div>
+                                    <div class="star-w">
+                                      <div class="empty">
+                                        <div class="star"></div>
+                                      </div>
+                                      <div
+                                        class="full"
+                                        style="width: 100%; max-width: 100%"
+                                      >
+                                        <div class="star"></div>
+                                      </div>
+                                    </div>
+                                    <div class="star-w">
+                                      <div class="empty">
+                                        <div class="star"></div>
+                                      </div>
+                                      <div
+                                        class="full"
+                                        style="width: 77%; max-width: 100%"
+                                      >
+                                        <div class="star"></div>
+                                      </div>
+                                    </div>
+                                    <div class="star-w">
+                                      <div class="empty">
+                                        <div class="star"></div>
+                                      </div>
+                                      <div
+                                        class="full"
+                                        style="width: 0px; max-width: 100%"
+                                      >
+                                        <div class="star"></div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="top-padding"></div>
+                            <div class="review-tooltip-content">
+                              <div>
+                                <span class="avg-rt-txt-tltp"
+                                  ><span class="tltp-avg-cnt">3.8 </span
+                                  >Ortalama Puan</span
+                                >
+                                <div class="pr-rnr-rat-s">
+                                  <div class="pr-rnr-st-ln">
+                                    <div class="pr-rnr-st-v">5</div>
+                                    <div class="ratings readonly">
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="pr-rnr-prg">
+                                      <div
+                                        class="pr-rnr-prg-y star-5"
+                                        style="width: 48.0392%"
+                                      ></div>
+                                    </div>
+                                    <div class="pr-rnr-st-c">49</div>
+                                  </div>
+                                  <div class="pr-rnr-st-ln">
+                                    <div class="pr-rnr-st-v">4</div>
+                                    <div class="ratings readonly">
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="pr-rnr-prg">
+                                      <div
+                                        class="pr-rnr-prg-y star-4"
+                                        style="width: 17.6471%"
+                                      ></div>
+                                    </div>
+                                    <div class="pr-rnr-st-c">18</div>
+                                  </div>
+                                  <div class="pr-rnr-st-ln">
+                                    <div class="pr-rnr-st-v">3</div>
+                                    <div class="ratings readonly">
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="pr-rnr-prg">
+                                      <div
+                                        class="pr-rnr-prg-y star-3"
+                                        style="width: 13.7255%"
+                                      ></div>
+                                    </div>
+                                    <div class="pr-rnr-st-c">14</div>
+                                  </div>
+                                  <div class="pr-rnr-st-ln">
+                                    <div class="pr-rnr-st-v">2</div>
+                                    <div class="ratings readonly">
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="pr-rnr-prg">
+                                      <div
+                                        class="pr-rnr-prg-y star-2"
+                                        style="width: 4.90196%"
+                                      ></div>
+                                    </div>
+                                    <div class="pr-rnr-st-c">5</div>
+                                  </div>
+                                  <div class="pr-rnr-st-ln">
+                                    <div class="pr-rnr-st-v">1</div>
+                                    <div class="ratings readonly">
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 100%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0%; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                      <div class="star-w">
+                                        <div class="empty">
+                                          <div class="star"></div>
+                                        </div>
+                                        <div
+                                          class="full"
+                                          style="width: 0px; max-width: 100%"
+                                        >
+                                          <div class="star"></div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="pr-rnr-prg">
+                                      <div
+                                        class="pr-rnr-prg-y star-1"
+                                        style="width: 15.6863%"
+                                      ></div>
+                                    </div>
+                                    <div class="pr-rnr-st-c">16</div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <a
+                            href="/i-love-shoes/mosena-mat-deri-bilekten-baglama-detayli-yuksek-topuklu-ayakkabi-beyaz-p-102313090/yorumlar?boutiqueId=61&amp;merchantId=123739&amp;v=35"
+                            class="rvw-cnt-tx"
+                            >102 Değerlendirme</a
+                          >
+                          <div class="seperator"></div>
+                          <a
+                            class="product-questions"
+                            href="/i-love-shoes/mosena-mat-deri-bilekten-baglama-detayli-yuksek-topuklu-ayakkabi-beyaz-p-102313090/saticiya-sor?merchantId=123739"
+                            >67 Soru &amp; Cevap</a
+                          >
+                        </div>
+                      </div>
+                      <div class="product-price-container">
+                        <div class="pr-bx-w">
+                          <div class="pr-bx-dsc">
+                            
+                            <div class="seperator"></div>
+                            <div class="pr-bx-pr-dsc">
+                              <div class="pr-bx-pr-dsc">
+                                Sepette %45 İndirim
+                              </div>
+                              <div style="display: flex">
+                                <span class="prc-dsc">{{product.cost}} {{product.currency}}</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="slicing-attributes"></div>
+                <div class="size-variant-wrapper">
+                  <div class="size-variant-title-wrapper">
+                    <span class="size-variant-title"
+                      >Beden:
+                      <span class="size-variant-attr-value">35</span>
+                      &nbsp;<span class="size-variant-stock-warning"
+                        >(Son 2 ürün!)</span
+                      ></span
+                    >
+                  </div>
+                  <div class="variants">
+                    <div
+                      class="selected sp-itm"
+                      title="Beden seçmek için tıklayınız"
+                    >
+                      35
+                    </div>
+                    <div class="so sp-itm" title="Beden seçmek için tıklayınız">
+                      36<span class="i-alarm"></span>
+                    </div>
+                    <div class="so sp-itm" title="Beden seçmek için tıklayınız">
+                      37<span class="i-alarm"></span>
+                    </div>
+                    <div class="so sp-itm" title="Beden seçmek için tıklayınız">
+                      38<span class="i-alarm"></span>
+                    </div>
+                    <div class="so sp-itm" title="Beden seçmek için tıklayınız">
+                      39<span class="i-alarm"></span>
+                    </div>
+                    <div class="so sp-itm" title="Beden seçmek için tıklayınız">
+                      40<span class="i-alarm"></span>
+                    </div>
+                  </div>
+                </div>
+                <div class="vas-product"></div>
+                <div class="product-button-container">
+                  <button class="add-to-basket"  @click.prevent="addToBasket">
+                    <div class="add-to-basket-button-text">Sepete Ekle</div>
+                    <div class="add-to-basket-button-text-success">
+                      Sepete Eklendi
+                    </div>
+                    <div class="add-to-bs-ldr"></div>
+                  </button>
+                  <div class="favorite-button">
+                    <div class="review-tooltip">
+                      <div class="tooltip-indicator">
+                        <button class="fv"><i class="far fa-heart"></i></button>
+                      </div>
+                      <div class="top-padding"></div>
+                      <div class="review-tooltip-content">
+                        <div>Favorilere Ekle</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <aside class="delivery-favorite-info">
+                  <div class="delivery-and-favorite-wrapper">
+                    <div class="pr-dd">
+                      <div class="pr-dd-rs-w">
+                        <span class="pr-dd-nr-text"
+                          >Tahmini Kargoya Teslim: </span
+                        ><span class="dd-txt-vl">3 gün içinde</span>
+                      </div>
+                    </div>
+                    <div class="fv-dt"><i class="i-heart"></i>17185 favori</div>
+                  </div>
+                </aside>
+                <div class="featured-information">
+                  <div class="featured-information-header">
+                    Öne Çıkan Bilgiler
+                  </div>
+                  <div class="content-descriptions">
+                    <ul id="content-descriptions-list">
+                      <li class="return-info">
+                        15 gün içinde ücretsiz iade. Detaylı bilgi için
+                        <a
+                          class="product-description-link"
+                          href="javascript:void(0)"
+                          >tıklayın</a
+                        >.
+                      </li>
+                      <li>
+                        <div class="productDetailSupplierPopup">
+                          <div class="popupBuffer"></div>
+                          <div class="popupContent">
+                            <div class="popup-top">
+                              <div class="popup-logo">
+                                <i class="icon icon-trendyol-marketplace"></i>
+                              </div>
+                              <div class="popup-info">
+                                <div class="ttl">TRENDYOL PAZARYERİ</div>
+                                <div class="description">
+                                  Tüm satıcılarımız Trendyol hizmet
+                                  standartlarını garanti eder.
+                                </div>
+                                <div class="attributes">
+                                  <div>
+                                    <i class="pdp-icon-reloaded"></i>Ücretsiz
+                                    İade
+                                  </div>
+                                  <div>
+                                    <i class="pdp-icon-cargo"></i> Hızlı
+                                    Teslimat
+                                  </div>
+                                  <div>
+                                    <i class="pdp-icon-phone"></i
+                                    ><span class="customer-support-text"
+                                      >Trendyol <br />Müşteri Desteği</span
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="supplier-info">
+                              <span>Satıcı:<b> I Love Shoes </b></span
+                              ><span
+                                >Satıcı Ünvanı:<b>
+                                  MBC GLOBAL E TİCARET AYAKKABI TEKSTİL SANAYİ
+                                  VE TİCARET LİMİTED ŞİRKETİ
+                                </b></span
+                              ><span
+                                >İletişim:<b>
+                                  Satıcının Trendyol tarafından teyit edilmiş
+                                  e-posta ve iletişim adresi kayıt altındadır.
+                                </b></span
+                              ><span
+                                ><span id="cityInfo"
+                                  >Şehir:<b> İzmir </b></span
+                                ></span
+                              ><span
+                                ><span
+                                  >Vergi Kimlik Numarası:<b>
+                                    6131223309
+                                  </b></span
+                                ></span
+                              >
+                            </div>
+                          </div>
+                        </div>
+                        Bu ürün
+                        <span class="product-description-market-place"
+                          >{{product.title}}</span
+                        >
+                        tarafından gönderilecektir.
+                      </li>
+                      <li>
+                        Topuk Türü : Kalın Topuk Topuk Yüksekliği :10 CM Taban
+                        :0,5 CM Materyal : Mat Deri Kalıp :Standart KalıpMosena
+                        Mat Deri Bilekten Bağlama Detaylı Yüksek Topuklu
+                        Ayakkabı
+                      </li>
+                      <li>
+                        Bu üründen en fazla 50 adet sipariş verilebilir. 50
+                        adetin üzerindeki siparişleri Trendyol iptal etme
+                        hakkını saklı tutar.
+                      </li>
+                      <li>
+                        Kampanya fiyatından satılmak üzere 5 adetten az stok
+                        bulunmaktadır.
+                      </li>
+                      <li>
+                        İncelemiş olduğunuz ürünün satış fiyatını satıcı
+                        belirlemektedir.
+                      </li>
+                    </ul>
+                    <div class="all-features">
+                      <div class="opacity-layout"></div>
+                      <a rel="nofollow" class="button-all-features"
+                        >ÜRÜNÜN TÜM ÖZELLİKLERİ</a
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <aside class="pr-rcs-w productDetail-Similar">
+            <div class="pr-rcs-tl title"></div>
+            <div class="pr-rcs-pds">
+              <div
+                tabindex="0"
+                class="styles-module_carousel-base__3keqD crs-pr-crl"
+              >
+                <div class="styles-module_item-provider__YgMwz">
+                  <div
+                    class="styles-module_item-tracker__3bypy"
+                    style="
+                      transform: translateX(-1121.5px);
+                      transition: transform 0s ease 0s;
+                      width: 2915.89px;
+                    "
+                  >
+                    <div
+                      class="styles-module_item-container__a8zaY"
+                      style="width: 224.299px; pointer-events: all"
+                    >
+                      
+                    </div>
+                    <div
+                      class="styles-module_item-container__a8zaY"
+                      style="width: 224.299px; pointer-events: all"
+                    >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </main>
     </div>
+  </div>
 </template>
+<script>
+import {mapGetters} from "vuex";
+
+export default {
+
+  data() {
+    return {
+      prd_code: this.$route.params.shoes,
+      product: null
+    }
+  },
+  created() {
+    this.product = this.$store.getters.get_productwithcode(this.$route.params.shoes);
+  },
+
+  computed: {
+    ...mapGetters({
+      get_productwithcode: "get_productwithcode",
+    }),
+  },
+  methods: {
+    addToBasket() {
+      this.$store.dispatch('add_basket_item', this.product)
+    }
+  }
+}
+</script>

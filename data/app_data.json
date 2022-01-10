@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty260/product/media/images/20211201/9/2466540/233157725/1/1_org.jpg",
+            "cost": 99.83,
+            "currency": "TL",
+            "id": 135996749,
+            "title":"Moda Frato",
+            "name": "Motif Rp-suettt Erkek Ev Terliği Kışlık Terlik"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty256/product/media/images/20211127/12/112599815/278754270/1/1_org.jpg",
+            "cost": 749.90,
+            "currency": "TL",
+            "id": 170576420,
+            "title":"Freemax",
+            "name": "Su Geçirmez Kürklü Kışlık Fermuarlı Bot Kauçuk Taban Sağlam Outdoor Garantili Ürün Siyah"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty253/product/media/images/20211124/10/1254281/134613365/1/1_org.jpg",
+            "cost":399.90,
+            "currency": "TL",
+            "id": 79358878,
+            "title":"Nstil",
+            "name": "Unisex Kar Botu Siyah Kaymaz Taban Kürklü"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty225/product/media/images/20211105/19/166362147/100125639/1/1_org.jpg",
+            "cost": 443.93,
+            "currency": "TL",
+            "id": 56428947,
+            "title":"Marjin",
+            "name": "Kadın Kalın Tırtıklı Taban Lastikli Günlük Postal Bot Eslona Siyah"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty52/product/media/images/20210112/5/51336206/84203141/1/1_org.jpg",
+            "cost": 399.90,
+            "currency": "TL",
+            "id": 47579138,
+            "title":"Riccon",
+            "name": "Cilt Siyah Kadın Yüksek Topuklu Bot 0012sp01"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty158/product/media/images/20210810/11/117284139/203060189/1/1_org.jpg",
+            "cost": 199.90,
+            "currency": "TL",
+            "id": 124752750,
+            "title":"Freemax",
+            "name": "Su Geçirmez Kürklü Kışlık Fermuarlı Bot Kauçuk Taban Sağlam Outdoor Garantili Ürün Siyah"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty149/product/media/images/20210727/15/112996592/22325591/1/1_org.jpg",
+            "cost": 199.90,
+            "currency": "TL",
+            "id": 7128727,
+            "title":"İnan Ayakkabı",
+            "name": "KADIN SİYAH BOT&BOOTİE&POSTAL 21INA75"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty253/product/media/images/20211120/20/1238446/319732841/1/1_org.jpg",
+            "cost": 839.90,
+            "currency": "TL",
+            "id": 194331514,
+            "title":"Mida Shoes",
+            "name": "Hakiki Deri Beyaz Deri Bağcıklı Bot"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty253/product/media/images/20211120/20/1238948/319733557/1/1_org.jpg",
+            "cost": 839.90,
+            "currency": "TL",
+            "id": 194331857,
+            "title":"Mida Shoes",
+            "name": "Hakiki Deri Bordo Süet Bağcıklı Bot"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty145/product/media/images/20210713/13/110038670/202925821/1/1_org.jpg",
+            "cost": 199.90,
+            "currency": "TL",
+            "id": 124685393,
+            "title":"İnan Ayakkabı",
+            "name": "KADIN SİYAH BOT&BOOTİE&POSTAL 21INA115"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty180/product/media/images/20210922/11/135202036/248276955/1/1_org.jpg",
+            "cost": 325.00,
+            "currency": "TL",
+            "id": 148323307,
+            "title":"özdenur",
+            "name": "Kadın Bej Bot"
+        },
+        {
+            "imgurl": "https://cdn.dsmcdn.com//ty252/product/media/images/20211123/22/1139344/306097921/1/1_org.jpg",
+            "cost": 699,
+            "currency": "TL",
+            "id": 186538562,
+            "title":"Su Espadril",
+            "name": "Bot Molise Bej Yarma Süet Bot"
+        }
+    ]
+}
