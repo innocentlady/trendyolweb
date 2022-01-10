@@ -41,16 +41,8 @@ export const actions = {
         alert("oluşturulan kullanıcı idsi: " + newUser.uid)
         const userref = ref(realDb, "users/" + newUser.uid)
         const userData = {
-          adresses: null,
-          birthDay: "01-01-1998",
-          couponsId: null,
-          favoriteProducts: null,
-          gender: 0,
-          getSpecialOfferMessage: true,
           id: newUser.uid,
-          inCart: null,
-          messages: null,
-          ordersId: null
+          inCart: null
         }
         alert("Kullanıcı verisi Realtime'a kaydedildi")
         set(userref, userData);

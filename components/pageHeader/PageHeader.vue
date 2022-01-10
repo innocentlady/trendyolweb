@@ -1,7 +1,28 @@
 <script>
+import { mapActions } from 'vuex'
+import { onAuthStateChanged } from 'firebase/auth'
+import { auth } from '../../plugins/firebase.js'
 import BasketDetail from '../basket/BasketDetail.vue'
 export default {
   components: { BasketDetail },
+  data() {
+    return {
+      logined: true,
+      kullanici: null,
+    }
+  },
+  created() {
+    onAuthStateChanged(auth, (user) => {
+      if (user) {
+        this.logined = true
+        this.dropbarName = 'HESABIM'
+        this.getUserdata()
+      } else {
+        this.logined = false
+        this.dropbarName = 'GİRİŞ YAP'
+      }
+    })
+  },
   methods: {
     toggleDropdown(open) {
       console.log(event)
@@ -13,6 +34,19 @@ export default {
         element.classList.add('enable')
       }
     },
+        ...mapActions({
+      logout: 'logout'
+    }),
+    
+    getUserdata() {
+      // Kullanıcı verilerini çekiyoruz.
+      if (this.logined) {
+        // kullanici diye bir variable tanımladık. Email ile ismi çektik.
+        this.kullanici = auth.currentUser
+        
+      }
+    },
+
   },
 }
 </script>
@@ -127,6 +161,7 @@ export default {
                 <div id="account-navigation-container">
                   <div class="account-navigation-wrapper">
                     <a
+                      v-if="logined === false"
                       class="account-nav-item user-login-container"
                       href="/account/login"
                     >
@@ -144,6 +179,69 @@ export default {
                         </div>
                       </div>
                     </a>
+                    <div
+                      v-if="logined === true"
+                      class="account-nav-item user-login-container"
+                    >
+                      <div class="link account-user">
+                        <div class="icon-container">
+                          <i class="i-user initial-icon"></i
+                          ><i class="i-user-orange hover-icon"></i>
+                        </div>
+                        <p class="link-text">Hesabım</p>
+                      </div>
+                      <div class="login-dropdown">
+                        <div class="user-loggedin-container">
+                          <p v-if="kullanici" class="user-name" >{{kullanici.email}}</p>
+                          <a
+                            href="/hesabim/siparislerim"
+                            class="loggedin-account-item"
+                            ><i class="i-my-orders"></i>
+                            <p>Siparişlerim</p></a
+                          ><a
+                            href="/Hesabim/Degerlendirmelerim"
+                            class="loggedin-account-item"
+                            ><i class="i-my-reviews"></i>
+                            <p>Değerlendirmelerim</p></a
+                          ><a
+                            href="/hesabim/mesajlarim"
+                            class="loggedin-account-item"
+                            ><i class="i-mail-filled"></i>
+                            <p>Mesajlarım</p></a
+                          ><a
+                            href="/hesabim/cuzdanim"
+                            class="loggedin-account-item"
+                            ><i class="i-my-wallet"></i>
+                            <p>Trendyol Cüzdanım</p></a
+                          ><a
+                            href="/Hesabim/IndirimKuponlari"
+                            class="loggedin-account-item"
+                            ><i class="i-discount"></i>
+                            <p>İndirim Kuponlarım</p></a
+                          ><a
+                            href="/Hesabim/KullaniciBilgileri"
+                            class="loggedin-account-item"
+                            ><i class="i-user-info"></i>
+                            <p>Kullanıcı Bilgilerim</p></a
+                          ><a
+                            href="/yardim/sorular?liveChat=True"
+                            class="loggedin-account-item"
+                            ><i class="i-chat"></i>
+                            <p>Trendyol Asistan</p></a
+                          ><a
+                            href="/yardim/sorular"
+                            class="loggedin-account-item"
+                            ><i class="i-question-mark"></i>
+                            <p>Yardım</p></a
+                          ><a
+                            class="loggedin-account-item"
+                              @click.prevent="logout()"
+                            ><i class="i-logout"></i>
+                            <p>Çıkış Yap</p></a
+                          >
+                        </div>
+                      </div>
+                    </div>
                     <a
                       class="account-nav-item account-favorites"
                       href="/product/favoriler/"
