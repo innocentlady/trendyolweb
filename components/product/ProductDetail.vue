@@ -828,15 +828,16 @@ export default {
       product: null
     }
   },
-  created() {
-    this.product = this.$store.getters.get_productwithcode(this.$route.params.shoes);
-  },
-
-  computed: {
+    computed: {
     ...mapGetters({
       get_productwithcode: "get_productwithcode",
     }),
   },
+  created() {
+    this.product = this.$store.getters.get_productwithcode(this.$route.params.shoes);
+  },
+
+
   methods: {
     addToBasket() {
       this.$store.dispatch('add_basket_item', this.product)

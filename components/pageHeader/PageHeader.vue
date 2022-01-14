@@ -113,18 +113,7 @@ export default {
                 data-fragment-name="AutoComplete"
                 data-fragment-id="6309193d-c56b-4bc5-a744-32e6f8f1d918"
               >
-                <style>
-                  .header {
-                    display: flex !important;
-                    align-items: center !important;
-                    justify-content: space-between !important;
-                    height: 64px !important;
-                  }
-                  .header > .col-xs-3,
-                  .header > .col-xs-6 {
-                    width: auto !important;
-                    float: none !important;
-                  }</style
+             
                 ><link
                   rel="stylesheet"
                   href="https://cdn.dsmcdn.com//web/production/autoCompleteV3.style.ad5309bd0f5701108e5808fa1d20451c.css"
@@ -2947,3 +2936,15 @@ export default {
     </div>
   </div>
 </template>
+   <style>
+                  .header {
+                    display: flex !important;
+                    align-items: center !important;
+                    justify-content: space-between !important;
+                    height: 64px !important;
+                  }
+                  .header > .col-xs-3,
+                  .header > .col-xs-6 {
+                    width: auto !important;
+                    float: none !important;
+                  }</style

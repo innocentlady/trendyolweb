@@ -13,7 +13,7 @@
          <div id="pb-container">
             <div class="pb-wrapper">
                <div class="pb-header-wrapper">
-                  <div class="pb-header">Sepetim ({{ basket.length }} Ürün)</div>
+                  <div class="pb-header">Sepetim ({{ basket().length }} Ürün)</div>
                </div>
                <div class="pb-info-message">
                   <i class="far fa-user"></i>
@@ -102,7 +102,7 @@
        }),
        totalAmount() {
          let total = 0;
-         this.basket.map(item => {
+         this.basket().map(item => {
             total += (item.product.cost * item.count);
             return item;
          })

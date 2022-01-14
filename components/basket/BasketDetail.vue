@@ -24,7 +24,7 @@ export default {
     },
     getTotal() {
       let total = 0;
-      this.basket.map(item => {
+      this.basket().map(item => {
         total += item.count
         return item;
       });
